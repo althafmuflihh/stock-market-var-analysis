@@ -38,6 +38,6 @@ This project aims to assess financial risk in the Taiwan Stock Market by analyzi
     * Interpret regime-switching probabilities for risk assessment
 ## Results
 
-![image](../backtesting VaR at 5% risk level.jpg)
+![image](backtesting VaR at 5% risk level.jpg)
 
 The Value at Risk (VaR) in the Taiwan Stock Market fluctuated significantly during the COVID-19 pandemic, indicating increased market volatility and financial risk. The Markov-Switching GARCH model detected clear regime shifts, aligning with economic disruptions.
